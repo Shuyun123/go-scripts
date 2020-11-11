@@ -1,4 +1,4 @@
-```shell script
+```shell
 go build -o ./bin/download ./download/download.go
 ```
 

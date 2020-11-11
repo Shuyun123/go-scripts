@@ -7,7 +7,7 @@
 
 推荐将bin目录添加环境变量，每次添加新脚本直接编译可使用
 
-```shell script
+```shell
 # GoLang自定义脚本
 export GOSCRIPT=/GO/src/scripts
 export PATH=$GOSCRIPT/bin:$PATH:.

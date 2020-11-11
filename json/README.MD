@@ -1,7 +1,7 @@
 #### 编译：
 
 
-```shell script
+```shell
 go build -o ./bin/jsondump ./json/json_dump.go
 ```
 
