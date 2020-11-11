@@ -1,0 +1,2 @@
+https://studygolang.com/dl/golang/go1.15.4.src.tar.gz
+https://studygolang.com/dl/golang/go1.15.4.darwin-amd64.tar.gz

@@ -1,0 +1,8 @@
+vendor/*
+*.log
+.idea
+.vscode
+.DS_Store
+*.iml
+build
+go.sum
