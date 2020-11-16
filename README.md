@@ -72,7 +72,7 @@ jsondump -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,            
 jsondump -c=true -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,                            [14:16:36]
 "children": ["Sara","Alex","Jack"],
 "fav.movie": "Deer Hunter", "friends": [
-    {"first": "Janet", "last": "Murphy", "age": 44}
+    {"first": "Janet", "last": "Murphy", "age": 44}'
 ```
 
 
