@@ -34,7 +34,7 @@ jsondump -h
 格式化json：
 
 ```shell
-jsondump -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,                                    [14:16:29]
+jsondump -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,                                    
 "children": ["Sara","Alex","Jack"],
 "fav.movie": "Deer Hunter", "friends": [
     {"first": "Janet", "last": "Murphy", "age": 44}
@@ -69,7 +69,7 @@ jsondump -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,            
 压缩json：
 
 ```shell
-jsondump -c=true -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,                            [14:16:36]
+jsondump -c=true -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,                            
 "children": ["Sara","Alex","Jack"],
 "fav.movie": "Deer Hunter", "friends": [
     {"first": "Janet", "last": "Murphy", "age": 44}'
@@ -88,10 +88,10 @@ jsondump -c=true -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,    
 输出到文件：
 
 ```shell
-jsondump -c=true -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,                            [14:16:36]
+jsondump -c=true -d '{"name":  {"first":"Tom","last":"Anderson"},  "age":37,                            
 "children": ["Sara","Alex","Jack"],
 "fav.movie": "Deer Hunter", "friends": [
-    {"first": "Janet", "last": "Murphy", "age": 44} -o test.json
+    {"first": "Janet", "last": "Murphy", "age": 44}' -o test.json
 ```
 
 
